@@ -136,6 +136,19 @@ Results:
 
 ---
 
+## PCA Visualization
+
+![PCA Projection](<img width="614" height="529" alt="image" src="https://github.com/user-attachments/assets/7f40a6fd-c9a4-4144-9f53-706368305f45" />
+)
+
+## Confusion Matrix
+
+![Confusion Matrix](<img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/a2c2f230-5256-44fe-a8a7-d88c91ea07a5" />
+)
+
+
+
+---
 ## Author
 
 Daniel Oh
