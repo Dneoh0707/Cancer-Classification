@@ -135,18 +135,6 @@ Results:
 * Explore explainable AI techniques for biological interpretation
 
 ---
-
-## PCA Visualization
-
-![PCA Projection](./images/PCA.png)
-
-## Confusion Matrix
-
-![Confusion Matrix](./images/ConfusionMat.png)
-
-
-
----
 ## Author
 
 Daniel Oh
