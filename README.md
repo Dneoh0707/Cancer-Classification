@@ -146,6 +146,13 @@ Results:
 
 ---
 
+## Files
+
+- `final_proj.ipynb`: main notebook for preprocessing, PCA, model training, and evaluation
+- `GSE183947_fpkm 복사본.csv`: gene expression dataset used in this project
+
+---
+
 ## Author
 
 Daniel Oh
